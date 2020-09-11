@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2073282014/ToastMessage.iml" filepath="$PROJECT_DIR$/.idea/modules/-2073282014/ToastMessage.iml" group="ToastMessage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ToasterMessageLib.iml" filepath="$PROJECT_DIR$/.idea/modules/ToasterMessageLib.iml" group="ToastMessage/ToasterMessageLib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1581961036/app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1581961036/app.iml" group="ToastMessage/app" />
+    </modules>
+  </component>
+</project>

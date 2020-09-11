@@ -1,0 +1,3 @@
+include ':ToasterMessageLib'
+include ':app'
+rootProject.name = "ToastMessage"
