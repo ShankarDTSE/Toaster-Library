@@ -30,9 +30,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
     implementation 'com.huawei.hms:hianalytics:5.0.1.301'
-    implementation 'com.huawei.hms:ads-lite:13.4.32.300'
-    implementation 'com.huawei.hms:ads-installreferrer:3.4.28.313'
     implementation 'com.huawei.agconnect:agconnect-core:1.4.1.300'
     implementation 'com.huawei.agconnect:agconnect-crash:1.4.1.300'
+    implementation 'com.huawei.hms:ads-lite:13.4.32.303'
 }
 
