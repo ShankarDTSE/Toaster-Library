@@ -20,7 +20,7 @@ public class HMSAnalytics {
         // instance.setUserProfile("userKey","value");
     }
 
-    public void HMSCustomEvent(HiAnalyticsInstance instance , Bundle mBundle){
+    public static void HMSCustomEvent(HiAnalyticsInstance instance , Bundle mBundle){
 
         //Add triggers of the custom event in proper positions of the code.
         Bundle bundle = mBundle;
